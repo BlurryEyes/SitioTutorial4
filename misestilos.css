@@ -1,0 +1,172 @@
+@charset "utf-8";
+body,td,th {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 12px;
+	color: #333;
+}
+body {
+	background-color: #ECE9D8;
+	background-image: url(imagenes/fondo-azul.gif);
+	margin: 0px;
+}
+h1,h2,h3,h4,h5,h6 {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+h1 {
+	font-size: 24px;
+	color: #036;
+}
+h2 {
+	font-size: 16px;
+	color: #036;
+}
+h3 {
+	font-size: 14px;
+	color: #036;
+}
+h4 {
+	font-size: 12px;
+	color: #036;
+}
+h5 {
+	font-size: 12px;
+	color: #036;
+}
+h6 {
+	font-size: 12px;
+	color: #036;
+}
+a:link {
+	color: #003;
+	text-decoration: underline;
+}
+a:visited {
+	text-decoration: underline;
+	color: #036;
+}
+a:hover {
+	text-decoration: none;
+	color: #F00;
+}
+a:active {
+	text-decoration: underline;
+	color: #063;
+}
+ul {
+	list-style-image: url(imagenes/bullet20.gif);
+}
+ol {
+	list-style-type: upper-roman;
+}
+img {
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+}
+pre {
+	font-size: 14px;
+	border: 1px dashed #333;
+	padding: 15px;
+	width: 450px;
+}
+
+dl {
+	margin-top: 0px;
+	margin-left: 25px;
+	margin-bottom: 0px;
+}
+dd {
+	margin-left: 20px;
+}
+
+dt {
+	font-weight: bold;
+	margin-top: 10px;
+}
+.bordefotos {
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 5px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #036;
+	border-right-color: #036;
+	border-bottom-color: #036;
+	border-left-color: #036;
+}
+.noticias {
+	font-weight: bold;
+	font-variant: small-caps;
+	color: #000;
+}
+.px20derecha {
+	margin-right: 20px;
+}
+.marcador {
+	background-color: #FFC;
+}
+
+#proyectos {
+	background-color: #7D9BE3;
+}
+
+#proyectos tr td {
+	background-color: #FFF;
+}
+#proyectos tr th {
+	color: #000;
+	text-align: left;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.pie {
+	background-color: #999;
+	text-align: center;
+	height: 80px;
+}
+#principal {
+	height: 600px;
+	background-color: #FFF;
+	background-image: url(imagenes/sombra-tabla.jpg);
+	background-repeat: no-repeat;
+}
+.celdaPPAL {
+	padding-top: 30px;
+	padding-right: 20px;
+	padding-bottom: 60px;
+	padding-left: 10px;
+}
+.celdaLAT {
+	background-image: url(imagenes/divisor-columna.jpg);
+	padding-top: 30px;
+	padding-right: 10px;
+	padding-bottom: 60px;
+	padding-left: 20px;
+	background-repeat: no-repeat;
+	background-position: right 70px;
+}
+#submenu tr td {
+	padding-top: 8px;
+	padding-bottom: 8px;
+	padding-left: 23px;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #666;
+	background-image: url(imagenes/bullet-rojo.gif);
+	background-repeat: no-repeat;
+	background-position: 10px center;
+}
+#submenu tr td a {
+	text-decoration: none;
+}
+
+.topcero {
+	margin-top: 0px;
+}
+h1 {
+	margin-top: 0px;
+}

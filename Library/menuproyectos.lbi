@@ -1,0 +1,12 @@
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+        <tr>
+          <td align="center"><h2 class="topcero">Avances de obra</h2>
+          <p>Haz click en la imagen para ver los videos</p>
+          <p><a href="../video1.html"><img src="../imagenes/video01.jpg" alt="Vide 1" width="100" height="74" class="bordefotos" /></a><br />
+            Ver video 1</p>
+          <p><a href="../video2.html"><img src="../imagenes/video02.jpg" alt="Video 2" width="100" height="75" class="bordefotos" /></a><br />
+            Ver video 2</p>
+          <p><a href="../video3.html"><img src="../imagenes/video03.jpg" alt="Video 3" width="100" height="75" class="bordefotos" /></a><br />
+          Ver video 3</p></td>
+        </tr>
+      </table>
